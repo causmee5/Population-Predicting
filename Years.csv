@@ -1,0 +1,4 @@
+Year,Root_Query,State_Query,Place_Query,County_Query
+1990,"https://api.census.gov/data/1990/sf1","https://api.census.gov/data/1990/sf1?get=P0010001,ANPSADPI&for=state:*","https://api.census.gov/data/1990/sf1?get=P0010001,ANPSADPI&for=place:*&in=state:","https://api.census.gov/data/1990/sf1?get=P0010001,ANPSADPI&for=county:*&in=state:"
+2000,"https://api.census.gov/data/2000/sf1","https://api.census.gov/data/2000/sf1?get=P001001,NAME&for=state:*","https://api.census.gov/data/2000/sf1?get=P001001,NAME&for=place:*&in=state:","https://api.census.gov/data/2000/sf1?get=P001001,NAME&for=county:*&in=state:"
+2010,"https://api.census.gov/data/2010/dec/sf1","https://api.census.gov/data/2010/dec/sf1?get=P001001,NAME&for=state:*","https://api.census.gov/data/2010/dec/sf1?get=P001001,NAME&for=place:*&in=state:","https://api.census.gov/data/2010/dec/sf1?get=P001001,NAME&for=county:*&in=state:"
